@@ -1,0 +1,1 @@
+package openweathermap_1c_api
